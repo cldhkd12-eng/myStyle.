@@ -1,0 +1,5 @@
+body {font:400 15px/1.8 'Noto Sans KR', sans-serif; color: darkgreen;}
+h1 {font: bold italic 28px 'Noto Sans KR', serif; letter-spacing: 2px;}
+.name {text-decoration: line-through; color:green;}
+.link {text-indent: -20px; color: darkgreen;}
+h2 { text-indent: 30px;}
